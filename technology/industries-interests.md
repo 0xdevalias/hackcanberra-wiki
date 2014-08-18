@@ -4,6 +4,11 @@
 
 * http://www.meetup.com/Canberra-Gamedevs/
 
+# Security
+
+* http://ruxmon.com/canberra/
+* http://ruxmon.com/sydney/
+
 # Virtual Reality
 
 * http://www.meetup.com/CanberraVirtualReality/
