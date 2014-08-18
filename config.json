@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "By <a href='http://www.devalias.net/'>Glenn '/dev/alias' Grant</a><br />",
+    "additionalFooterText": "With <3 by <a href='http://www.devalias.net/'>Glenn '/dev/alias' Grant</a><br />",
     "anchorCharacter": "&para;",
     "title": "Hack Canberra"
 }

@@ -3,22 +3,24 @@
 [General]()
 
   * [Co-Working/Hacker Spaces](general/coworking-hacker-spaces.md)
+  * [Startups/Entrepreneurs](general/startups-entrepreneurs.md)
 
 [Technology]()
 
-  * [Test](test.md)
+  * [Coding](technology/coding.md)
+  * [Industries/Interests](technology/industries-interests.md)
 
-[Design]()
+[(Web) Design]()
 
-  * [Test](test.md)
+  * [Web Design/Development](design/web-design-development.md)
 
 [Business]()
 
-  * [Test](test.md)
+  * [TODO](todo.md)
 
 [Government 2.0]()
 
-  * [Test](test.md)
+  * [TODO](todo.md)
 
 
 <!-- set a default theme -->
