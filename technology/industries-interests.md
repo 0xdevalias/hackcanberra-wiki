@@ -1,18 +1,18 @@
 # Industries / Interests
 
-# Game Development
+## Game Development
 
 * http://www.meetup.com/Canberra-Gamedevs/
 
-# Security
+## Security
 
 * http://ruxmon.com/canberra/
 * http://ruxmon.com/sydney/
 
-# Virtual Reality
+## Virtual Reality
 
 * http://www.meetup.com/CanberraVirtualReality/
 
-# Wearables
+## Wearables
 
 * http://www.meetup.com/Wearables-Canberra/
